@@ -1,0 +1,55 @@
+{
+  "kind": "original publicly published project images preserved without alteration",
+  "retrieved_date": "2026-10-17",
+  "source_readme": "https://github.com/Patr1ck2005/EM-Visulization/blob/30753de3e55b9920323891689174e0e35e34821f/README.md",
+  "implementation_status": "no implementation source published in inspected snapshot",
+  "repository_license": "existing MIT License, copyright 2025 Wang Keren",
+  "source_parameters": "not published",
+  "color_and_opacity": "original concept says X/Y/Z map to R/G/B and magnitude maps to opacity; signed mapping and numerical transfer functions unspecified",
+  "files": [
+    {
+      "path": "two-positive-charges.png",
+      "original_caption": "two positive charge",
+      "source_url": "https://github.com/user-attachments/assets/71e071f8-eb1f-49ae-8330-98087a541f1b",
+      "dimensions_px": [
+        1264,
+        1466
+      ],
+      "sha256": "0aa296770a4e0018b123edf08ba907431e514c8f0433c26a8f1e939f5e2da410",
+      "processing": "none; original downloaded bytes preserved"
+    },
+    {
+      "path": "electric-dipole.png",
+      "original_caption": "electric dipole",
+      "source_url": "https://github.com/user-attachments/assets/40f232e5-cc47-4f12-afd4-6dcdef8510a6",
+      "dimensions_px": [
+        1267,
+        1467
+      ],
+      "sha256": "4b7f3df8ff944c7ccdc6579611aa62b1abfe9af2a320b2745a1dd30af447ceeb",
+      "processing": "none; original downloaded bytes preserved"
+    },
+    {
+      "path": "complex-field-1.png",
+      "original_caption": "complex cases (first image)",
+      "source_url": "https://github.com/user-attachments/assets/b02e5a89-d988-4a27-8903-ac6e85fce7ff",
+      "dimensions_px": [
+        1263,
+        1469
+      ],
+      "sha256": "a754bc5a74285c6b12cd12434c3d6c225dd16883f9aa07f9e711f95b16489fcb",
+      "processing": "none; original downloaded bytes preserved"
+    },
+    {
+      "path": "complex-field-2.png",
+      "original_caption": "complex cases (second image)",
+      "source_url": "https://github.com/user-attachments/assets/f1bae86a-799a-4cc7-9963-9df508579892",
+      "dimensions_px": [
+        1259,
+        1467
+      ],
+      "sha256": "85246a9d3e7e6923253f0e5adcfe14c3fdc2ab54f6fb03768bfd68ac3c2468b1",
+      "processing": "none; original downloaded bytes preserved"
+    }
+  ]
+}
